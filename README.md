@@ -1,3 +1,5 @@
 # gitskills
 learn git 
-create a breanch is so fast!   s dsafasd
+
+
+create a new branch is quick and simple!
